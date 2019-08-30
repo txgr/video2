@@ -1,0 +1,10 @@
+F:\vs\vs2017\Video.Core\ConsoleTest\bin\Debug\netcoreapp2.2\ConsoleTest.deps.json
+F:\vs\vs2017\Video.Core\ConsoleTest\bin\Debug\netcoreapp2.2\ConsoleTest.runtimeconfig.json
+F:\vs\vs2017\Video.Core\ConsoleTest\bin\Debug\netcoreapp2.2\ConsoleTest.runtimeconfig.dev.json
+F:\vs\vs2017\Video.Core\ConsoleTest\bin\Debug\netcoreapp2.2\ConsoleTest.dll
+F:\vs\vs2017\Video.Core\ConsoleTest\bin\Debug\netcoreapp2.2\ConsoleTest.pdb
+F:\vs\vs2017\Video.Core\ConsoleTest\obj\Debug\netcoreapp2.2\ConsoleTest.csproj.CoreCompileInputs.cache
+F:\vs\vs2017\Video.Core\ConsoleTest\obj\Debug\netcoreapp2.2\ConsoleTest.AssemblyInfoInputs.cache
+F:\vs\vs2017\Video.Core\ConsoleTest\obj\Debug\netcoreapp2.2\ConsoleTest.AssemblyInfo.cs
+F:\vs\vs2017\Video.Core\ConsoleTest\obj\Debug\netcoreapp2.2\ConsoleTest.dll
+F:\vs\vs2017\Video.Core\ConsoleTest\obj\Debug\netcoreapp2.2\ConsoleTest.pdb

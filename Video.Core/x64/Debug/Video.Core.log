@@ -1,0 +1,24 @@
+﻿  pch.cpp
+  dllmain.cpp
+  pusher.cpp
+G:\opencv4.1.1\ffmpeg\include\libavutil\rational.h(1,1): warning C4819:  该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\vs\vs2017\Video.Core\Video.Core\pusher.cpp(91,14): warning C4244:  “初始化”: 从“size_t”转换到“double”，可能丢失数据
+F:\vs\vs2017\Video.Core\Video.Core\pusher.cpp(97,18): warning C4244:  “初始化”: 从“size_t”转换到“double”，可能丢失数据
+F:\vs\vs2017\Video.Core\Video.Core\pusher.cpp(106,35): warning C4244:  “参数”: 从“double”转换到“__int64”，可能丢失数据
+F:\vs\vs2017\Video.Core\Video.Core\pusher.cpp(136,12): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\vs\vs2017\Video.Core\Video.Core\pusher.cpp(148,26): warning C4244:  “return”: 从“double”转换到“int”，可能丢失数据
+F:\vs\vs2017\Video.Core\Video.Core\pusher.cpp(163,22): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\vs\vs2017\Video.Core\Video.Core\pusher.cpp(164,23): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\vs\vs2017\Video.Core\Video.Core\pusher.cpp(166,14): warning C4244:  “初始化”: 从“double”转换到“int”，可能丢失数据
+  streamer.cpp
+F:\vs\vs2017\Video.Core\Video.Core\pusher.cpp(222,56): warning C4244:  “参数”: 从“_Rep”转换到“int64_t”，可能丢失数据
+F:\vs\vs2017\Video.Core\Video.Core\pusher.cpp(222,56): warning C4244:         with
+F:\vs\vs2017\Video.Core\Video.Core\pusher.cpp(222,56): warning C4244:         [
+F:\vs\vs2017\Video.Core\Video.Core\pusher.cpp(222,56): warning C4244:             _Rep=double
+F:\vs\vs2017\Video.Core\Video.Core\pusher.cpp(222,56): warning C4244:         ]
+G:\opencv4.1.1\ffmpeg\include\libavutil\rational.h(1,1): warning C4819:  该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\vs\vs2017\Video.Core\Video.Core\streamer.cpp(52,22): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+F:\vs\vs2017\Video.Core\Video.Core\streamer.cpp(53,23): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+    正在创建库 F:\vs\vs2017\Video.Core\x64\Debug\Video.Core.lib 和对象 F:\vs\vs2017\Video.Core\x64\Debug\Video.Core.exp
+  Video.Core.vcxproj -> F:\vs\vs2017\Video.Core\x64\Debug\Video.Core.dll

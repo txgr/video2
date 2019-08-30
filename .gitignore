@@ -1,0 +1,13 @@
+.buildpath
+.settings/
+.project
+*.patch
+.idea/
+.git/
+.vs/
+*.lock
+*.bin
+*.x64
+.phpintel/
+.phpstorm.meta.php
+.DS_Store
